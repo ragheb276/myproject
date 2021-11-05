@@ -1,0 +1,43 @@
+/** @format */
+
+.title-text {
+  font: normal bold 38px/ 57px arial;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+/* p.para {
+  font: normal 500 20px/25px var(--akronim);
+}
+ */
+button {
+  color: #fff;
+  background-color: #2a81ea;
+  border: none;
+  font-weight: bold;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  cursor: pointer;
+  outline: none;
+}
+
+button:hover {
+  background-color: #1468cd;
+}
+
+.Oswald {
+  font-family: "Oswald", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #2a81ea;
+}
+a:hover {
+  color: #1468cd;
+}
